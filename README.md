@@ -6,6 +6,14 @@ An application that is connected to Firebase. The purpose to help the doctor tra
 
 THIS APPLICATION WAS DEVELOPED AS A PROOF OF CONCEPT. THIS APPLICATION SHOULDN’T BE USED WITHOUT MEDICAL EXPERTS’ APPROVAL.
 
+# FEATURES
+
+- Chatting with patient
+- View sensor values AM and PM of the patient
+- View patient’s location for better diagnosing
+- Add notes and prescriptions for a patient
+
+
 ## Getting Started
 
 1)      Create a Firebase project
